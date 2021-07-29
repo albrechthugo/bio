@@ -42,4 +42,8 @@
   <a href="https://linkedin.com/in/albrechthugo">
     <img align="center" src="https://img.shields.io/static/v1?label=&message=linkedin&color=0A66C2&style=for-the-badge&logo=linkedin"/>
   </a>
+  
+  <a href="http://www.hugoalbrecht.dev.br">
+    hugoalbrecht.dev.br
+  </a>
 </div>
