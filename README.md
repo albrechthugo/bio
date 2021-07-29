@@ -46,7 +46,7 @@
   <br />
   <br />
   
-  <a href="http://www.hugoalbrecht.dev.br">
+  <a href="https://www.hugoalbrecht.dev.br">
     hugoalbrecht.dev.br
   </a>
 </div>
