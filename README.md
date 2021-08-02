@@ -4,7 +4,13 @@
 
 <h3 align="center">Catarinense, 21 anos, <strong>desenvolvedor frontend</strong>, atualmente integro o time da TOTVS.<h3/>
   
-
+ <div align="center">
+  <a href="https://github.com/albrechthugo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albrechthugo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albrechthugo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+   
+<br />
 
 <div align="center">
   <a href="">
