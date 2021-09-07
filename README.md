@@ -1,8 +1,6 @@
 <h1 align="center">Hugo Andreas Albrecht</h1> 
 
-<h2 align="center">👋🏻 Boas vindas ao meu perfil!</h2>
-
-<h3 align="center">Catarinense, 21 anos, <strong>desenvolvedor frontend</strong>, atualmente integro o time da TOTVS.<h3/>
+<h3 align="center">👋🏻 Catarinense, 21 anos, <strong>desenvolvedor frontend</strong>, atualmente integro o time da TOTVS.<h3/>
   
  <div align="center">
   <a href="https://github.com/albrechthugo">
