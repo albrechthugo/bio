@@ -1,6 +1,4 @@
 <h1 align="center">Hugo Andreas Albrecht</h1> 
-
-<h3 align="center">👋🏻<h3/>
   
  <div align="center">
   <a href="https://github.com/albrechthugo">
