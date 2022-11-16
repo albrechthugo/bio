@@ -6,7 +6,7 @@ Hello guys!
 
 🌱 My main knowledge is the Javascript ecossystem, so i've experience with TypeScript, Angular, React, Next.js. Besides it i also have experience with GraphQL,  Node.js, Nest.js.
 
-Need you to reach me?
+Do you need to reach me?
 
 https://linkedin.com/in/albrechthugo
 
