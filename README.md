@@ -4,7 +4,7 @@ Hello guys!
 
 💼 I currently work at PicPay building cool stuffs with Angular.
 
-🌱 My main knowledge is the Javascript ecossystem, so i've experience with TypeScript, Angular, React, Next.js. Besides it i also have experience with GraphQL,  Node.js, Nest.js.
+🌱 My main knowledge is the Javascript ecossystem, so i've experience with TypeScript, Angular, React, Next.js. Besides i have experience with GraphQL,  Node.js, Nest.js.
 
 Do you need to reach me?
 
