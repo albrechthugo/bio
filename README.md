@@ -2,7 +2,7 @@ Hello guys!
 
 🇧🇷 My name is Hugo Albrecht and i'm a Frontend Engineer from Brazil.
 
-💼 I currently work at PicPay building cool stuffs with Angular.
+💼 I currently work at Banco PAN building cool stuffs with Angular.
 
 🌱 My main knowledge is the Javascript ecossystem, so i've experience with TypeScript, Angular, React, Next.js. Besides i have experience with GraphQL,  Node.js, Nest.js.
 
